@@ -10,3 +10,6 @@ This repo contains materials from the workshop conducted by Arjun on "Planning a
 * [Example_Yearly-Planning-Document.pdf](https://github.com/krishnanlab/talks/blob/master/2018-09-21_MSU-PDA/Example_Yearly-Planning-Document.pdf): Example filled worksheets. 
 * [Notes-on_Yearly-Planning-Meeting.pdf](https://github.com/krishnanlab/talks/blob/master/2018-09-21_MSU-PDA/Notes-on_Yearly-Planning-Meeting.pdf): Notes on how to go about conducting the Yearly Planning Meeting.
 * [Giving-Receiving-Feedback.pdf](https://github.com/krishnanlab/talks/blob/master/2018-09-21_MSU-PDA/Giving-Receiving-Feedback.pdf): Guidelines for giving and receiving constructive feedback.
+
+## Contact information
+Arjun Krishnan | [Email](arjun@msu.edu) | [Twitter](www.twitter.com/compbiologist) | [Website](www.thekrishnanlab.org)
