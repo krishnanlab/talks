@@ -12,4 +12,4 @@ This repo contains materials from the workshop conducted by Arjun on "Planning a
 * [Giving-Receiving-Feedback.pdf](https://github.com/krishnanlab/talks/blob/master/2018-09-21_MSU-PDA/Giving-Receiving-Feedback.pdf): Guidelines for giving and receiving constructive feedback.
 
 ## Contact information
-Arjun Krishnan | [Email](arjun@msu.edu) | [Twitter](www.twitter.com/compbiologist) | [Website](www.thekrishnanlab.org)
+Arjun Krishnan | [Email](mailto:arjun@msu.edu) | [Twitter](http://twitter.com/compbiologist) | [Website](http://www.thekrishnanlab.org)
